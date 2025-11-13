@@ -22,6 +22,10 @@
 // @match    *://sourceforge.net/*
 // @match    *://*.slashdot.org/*
 // @match    *://slashdot.org/*
+// @match    *://*.flagle.io/*
+// @match    *://flagle.io/*
+// @match    *://*sharktankrecap.com/*
+// @match    *://sharktankrecap.com/*
 // ==/UserScript==
 
 (function() {
