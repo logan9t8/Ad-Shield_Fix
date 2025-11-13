@@ -76,6 +76,8 @@ The script implements several protective measures:
 ## 🌐 Other Domains
 Other domains that have been seen to have this issue related to html-load.com and the error dialog "This page could not be loaded properly due to incorect [snip]" referring to ht<span>tps://</span>report.error-report.com (catching keywords for people scouring the internet here!):
 
+- sharktankrecap.com
+- flagle.io
 - j-cast.com
 - timesofindia.indiatimes.com (external confirmation)
 - picrew.me (external confirmation)
@@ -116,6 +118,9 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## 📅 Version History
 
 ### 2025
+- **2025-11-14**
+  - Accepted PR #6 by [@logan9t8](https://github.com/logan9t8) to add flagle and sharktankrecap
+  - Update README to suit
 - **2025-06-25**
   - Added wetter.com
 - **2025-06-16**
